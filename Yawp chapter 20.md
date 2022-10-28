@@ -23,6 +23,10 @@ All of the dissatisfaction with the new trends in American society created the p
 - women wanted suffrage and a larger role in society
 - workers want higher wages, safer workplaces, and unionization
 
+## Summary:
+- Industrial revolution created lots of social problems
+	- Americans were not happy about these problems, so they seeked reform
+
 # II) Mobilizing for Reform
 
 The Triangle Shirtwaist Facotry caught fire in 1911.
@@ -62,6 +66,15 @@ The social gospel was a movement that emphasized the need for Christians to save
 	- Men often ignored issues that women faced and did not support womens suffrage
 	- Native americans and other oppressed minorities were ignored
 
+## Summary
+- People are spurred to reform by the Triangle Shirtwaist Factory fire
+- There are various ways to promote reform:
+	- Muckraking
+	- Novels (Bellamy's Looking Backward)
+	- Literature (Sinclaires The Jungle, Jacob Riis's How the Other Half Lives)
+- Social gospel is the Christian movement that seeks to save society
+	- Dont think this was all roses, they still ignored the plights of women and minorities
+
 # III) Women's Movements
 
 Reform created new opportunities for women to begin advocating for change
@@ -99,6 +112,20 @@ The point is that women's suffrage was composed of numerous groups that did not 
 
 Alice Paul was the leader of the womens suffrage movement run by the National Woman's Party
 - Picketed the White House
+
+## Summary
+- Women begin to form clubs and organizations to explore what they want their position in society to be
+	- Various reform movements led by women spring up as a result
+		- Temperance, alcohol is believed to be the root of all social evils
+		- Woman's Suffrage
+		- Settlement Houses, Hull House
+			- Hull House was originally just to provide community support, but it became a powerhouse of reform when Florence Kelly convinced Jane Addams to enter the world of reform movements
+	- Examples of these societies are:
+		1. General Federation of Women's Clubs
+		2. National Association of Colored Women
+			1. Black womens clubs provide a way to empower black communities
+		3. Woman's Christian Temperance Union
+- Women's reform movements were not composed of homogenous groups, they were often made of numerous groups with their own agendas, who happened to work towards a similar goal.
 
 # IV) Targeting the Trusts
 
@@ -142,6 +169,25 @@ Howard Taft wanted to dissolve corporations
 - doubled the number of monopoly breakups that roosevelt did
 - Went after U.S. Steel
 
+## Summary:
+- Just like how women were upset with their position in society, many citizens were upset with the power that monopolies held over them. So they began pushing for trust reform
+- Trusts are agreements between corporations to stay out of each others territory, very anticompetitive
+	- These developed because the government had a "hands off" approach to the economy.
+- The Great Merger Movement was the massive consolidation of nearly 4000 companies into just 257 corporate firms.
+- Integration (No, not the calculus kind):
+	1. Horizontal Integration
+		1. Buy out your competition, merge
+		2. Used by Rockerfeller
+	2. Vertical Integration
+		1. Control every step of your buisness, from raw material sourcing to production to distribution
+		2. Practiced by Carnegie
+- Roosevelt wanted to simply regulate existing corporations
+- Howard Taft wanted to completely dissolve trusts
+- Important Acts:
+	1. Interstate Commerce Act
+	2. Sherman Anti-Trust Act
+	3. Clayton Anti-Trust Act
+
 # V) Progressive Enviromentalism
 
 The industrial revolution really messed up the enviroment
@@ -164,6 +210,12 @@ There was lots of effort put into reforming public health, waste management, and
 
 Country Life movement was designed to take students outside to experience nature
 
+## Summary:
+- Preservation and Conservation are different
+- Conservationism mainly benefited financial interests, as it protected resources so that they could be used more effectively
+	- Game hunting laws were passed that disproportionately affected certain groups
+- In addition to enviroment reform, there was also urban enviroment reform.
+	- People begin to look into how cities are designed, improving santiation, waste management, and public parks
 
 # VI) Jim Crow and African American Life
 
@@ -191,3 +243,9 @@ Plessy v Fergusson ruling established the legal principle of separate but equal
 
 Segregation and disenfranchisement created structures of racism that basically undid the effort of reconstruction
 
+## Summary:
+- White Southerners feel threatened by the newfound independence and power of Blacks in america
+	- They begin trying to restrict their political influence by making it very difficult to vote
+- Segregation was developed out of a necessity to maintain white supremacy in the cities, it was not necessary in the rural areas because of existing systems designed to subjugate Black communities
+- 14th amendment prevented discrimination by states, but said nothing about individual/buisness discrimination
+- Plessy v Fergusson ruling established that "Seperate but Equal" is perfectly legal
