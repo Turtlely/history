@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "ba2ae6e4d92500f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1eae683b4696b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Yawp chapter 19.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06145c1e64a00149",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89d3ed041e7ea39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "294bcc2c30238957",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "124507f72007d025",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7672f40856be828e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0d50b450b9c6a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fecb6555e398a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138eab36b5dcd662",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Yawp chapter 19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbb63fabc67395cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Yawp chapter 19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "365631fce7e61ef6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0cf9dee06ea249d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Yawp chapter 19.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ac1eae683b4696b6",
+  "lastOpenFiles": [
+    "Yawp chapter 17.md",
+    "Yawp chapter 18.md",
+    "Yawp chapter 19.md",
+    "Yawp chapter 16.md",
+    "IBUSH Essay notes.md"
+  ]
+}
