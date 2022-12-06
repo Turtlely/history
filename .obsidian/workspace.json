@@ -20,14 +20,19 @@
             }
           },
           {
-            "id": "9a10c9468be56624",
+            "id": "cc029f6476810848",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Yawp chapter 22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yawp chapter 20.md",
+                "file": "Yawp chapter 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yawp chapter 20.md",
+                "file": "Yawp chapter 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yawp chapter 20.md"
+                "file": "Yawp chapter 22.md"
               }
             }
           }
@@ -145,16 +150,14 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ac1eae683b4696b6",
+  "active": "cc029f6476810848",
   "lastOpenFiles": [
+    "Yawp chapter 22.md",
+    "Yawp chapter 20.md",
     "Yawp chapter 19.md",
+    "IBUSH Essay notes.md",
     "Yawp chapter 18.md",
     "Yawp chapter 17.md",
-    "Yawp chapter 16.md",
-    "Yawp chapter 20.md",
-    "IBUSH Essay notes.md"
+    "Yawp chapter 16.md"
   ]
 }

@@ -37,7 +37,7 @@ The Philippine-American wars marked a crucial turning point in American interven
 
 Questions are raised:
 1. Should the U.S. act as an empire?
-	- Is it antithetical to its founding democrat ideals?
+	- ==Is it antithetical to its founding democrat ideals?==
 	- Some people are opposed to expansion because it goes against the founding ideals
 2. Can colonial subjects be safely integrated as Americans?
 
@@ -49,7 +49,7 @@ Yellow Journals are newspapers that notoriously promoted sensational stories at 
 - They immediately capitalize on the sinking of the Maine, calling for war with Spain.
 - This war is called "A Splendid Little War" by Secratary of state John Hay
 
-America feels an empowerment or duty to "liberate" the world from its struggles
+==America feels an empowerment or duty to "liberate" the world from its struggles==
 - Albert J. Beridge said that America had a mission to perform
 
 U.S. helped the Philippines fight for independence against the Spanish
@@ -63,7 +63,7 @@ Roosevelt wanted to annex Hawaii:
 1. Deny Japanese expansion and limit west coast threats
 2. Excellent port for battleships
 
-Roosevelt insists that the big stick of the U.S. can ensure its dominance in the western hemisphere.
+==Roosevelt insists that the big stick of the U.S. can ensure its dominance in the western hemisphere.==
 - Did not have the ability to use military to impose this on south and central americ
 	- Instead, it goes for Dollar Diplomacy to assert dominance
 		- Loans are provided to Latin American countries for some level of control
