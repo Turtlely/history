@@ -1,4 +1,4 @@
-## Introduction
+ ## Introduction
 Following the end of WWI, President Warren G. Harding makes a speech about how America needs normalcy and peace, not more reolvution and change.
 - Following WWI, the country felt disillusioned
 	- More than 115,000 U.S. soldiers died in a year of fighting
@@ -244,4 +244,76 @@ the KKK also had a women's branch that promoted prohibition
 
 the KKK has a strong grip on the politics of the time too
 - people couldnt be elected without the support of the KKK in many states
+
+
+
+mass prod of automob household app holywood radio makes a new economy std opf living goes up
+
+talking movies jazz music 
+
+at the same time americans do not want reform here
+- retreat towards old 
+- revive KKK
+
+herbert hoover claims that republicans brought about a new era of prosp
+could not see weak
+
+cultur of consp promote new freedom and new insecurity
+credit is high risk
+high tarrifs 
+
+bubble popped
+
+farmers minorities etc did not share the 1920s boom
+end of 1920s boom was because of speculation on wall street. great depression is near
+
+
+consumer culture good because it made the economy really strong
+- it comes from companies having too much product and too little demand, so advertisements go crazy
+- dept stores are created here
+
+However, CC is bad because it promoted materialistic and superficial lifestyles
+- criticised by sinclair lewis in the babbit
+- urban vs rural conflict
+
+the economy in the 1920s changed because after world war 1, production and industrialization got big and created the necessity for massive advertisement campaigns and a culture of consumption
+- people are encouraged to buy things to increase their standard of living
+- SOL goes up too because of the better economy
+- better economy = people have more money = people buy more = better economy
+
+The flapper lifestyle was a carefree way of living for women at the time that broke a ton of social norms.
+- smoked cigars, short dress, short hair, rebellious
+- symbol of changing social norms at the time
+
+Flappers were made because of the amount of freedom women had now
+- after womens suffrage, they could vote and had some political power
+- they also had the money to be independent because they could now hold jobs outside the house
+
+the red scare was a period of fear and anxiety after world war 1 regarding communism
+- this comes about because of right wing radicals
+- leads to the U.S. gov banning free speech basically, dark era of america
+
+Jazz evolves out of the harlem renaissance
+- it is a way for oppressed black communities to stick together and express themselves in the face of extreme racial violence at the time
+	- remember the kkk is big
+
+jazz was embraced by young people as it was new and stuff, rejected by older people because it went against societal norms
+- faced challenges because it was interpreted as immoral and rebellious
+
+new immigrants moving into the U.S. in the 1920s brings new culture
+- people get anxious about this and start to pass things like the national origins act and emergency quota act
+- lots of prejudice against racial groups
+- people think theyre going to bring radical ideologies with them
+
+the new negro was a term that referred to the new attitude of AA's at the time
+- they were confident and strong in the face of racial violence
+- they rejected the stereotype of a weak and submissive african american
+- they sought to improve social status through economic progress and hard work
+
+Garveyism seeks to empower AA's through self reliance and racial pride
+Du Bois advocated for african american assimilation and education
+- contrasts with garvey because garvey wanted AA's to stand out and be distinct
+
+culture of escape evolves out of people feeling anxious and overwhelemed by the pace of life after wwi
+- people want to escape these stresses, so they turn to things like alcohol, automobiles, going to movies, attending entertainment venues, etc
 

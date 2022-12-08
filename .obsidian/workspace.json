@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac1eae683b4696b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yawp chapter 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc029f6476810848",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,8 +139,8 @@
   },
   "active": "cc029f6476810848",
   "lastOpenFiles": [
-    "Yawp chapter 22.md",
     "Yawp chapter 20.md",
+    "Yawp chapter 22.md",
     "Yawp chapter 19.md",
     "IBUSH Essay notes.md",
     "Yawp chapter 18.md",
